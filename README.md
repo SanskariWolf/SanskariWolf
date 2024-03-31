@@ -1,16 +1,40 @@
-### Hi there 👋
+# Sanskari Wolf | Tanush Purwar
 
-<!--
-**SanskariWolf/SanskariWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm Tanush Purwar, also known as Sanskari Wolf across various social media platforms. I'm a second-year Computer Science Engineering student at Maharaja Agrasen Institute of Technology, Delhi. Currently, I'm deeply engaged in web development and expanding my skill set through courses and hands-on projects.
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate member of Team Chaitanya, an International Education Society, where I actively contribute to community engagement and professional development initiatives. Being part of this dynamic environment has enabled me to foster valuable connections and continually upgrade my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **B.Tech Computer Science Engineering**
+  - Maharaja Agrasen Institute of Technology, Delhi
+  - 2022 - 2026
+
+## Experience
+- **IoT Developer**
+  - BYTE MAIT
+  - Mar 2024 - Present
+
+- **Member**
+  - Team Chaitanya
+  - Oct 2023 - Present
+
+## Certifications
+- CSS And JavaScript Crash Course - Proper Dot Institute
+- Linux Command Line - Peter A
+- Python Data Science - Cognitive Class
+- UI/UX Design - Internshala Trainings
+- UX Evolve - Manipal University Jaipur
+
+## Skills
+- Internet of Things (IoT)
+- Arduino
+- Raspberry Pi
+- Rust (Programming Language)
+- User-centered Design
+- Wireframing and Prototyping
+
+## Contact Me
+- 📧 Email: tanushpurwar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/tanushpurwar](https://www.linkedin.com/in/tanushpurwar)
+- 🐦 Twitter: [@sanskariwolf](https://twitter.com/sanskariwolf)
