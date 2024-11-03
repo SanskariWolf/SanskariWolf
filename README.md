@@ -1,8 +1,6 @@
 
 ![Banner](../main/Assets/Banner.png)
 
-> "In the shadows, the wolf learns that even the closest pack can turn."
-
 # Hey Guys!! I'm Tanush Purwar
 
 ---
@@ -12,8 +10,7 @@
 ---
 
 ### My GitHub Status
-![Status 1](https://via.placeholder.com/282x118) ![Status 2](https://via.placeholder.com/299x118)
-
+![Status 1](https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=radical) ![Status 2](https://github-readme-stats.vercel.app/api?username=SanskariWolf&count_private=true&theme=radical&show_icons=true)
 ---
 
 ### Connect with Me
@@ -25,4 +22,4 @@
 
 ---
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories
