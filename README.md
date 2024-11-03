@@ -16,10 +16,10 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://via.placeholder.com/15/0076B2/FFFFFF?text=+)](https://www.linkedin.com/in/yourprofile) 
-[![Instagram](https://via.placeholder.com/15/FFDD55/FFFFFF?text=+)](https://www.instagram.com/yourprofile) 
-[![Website](https://via.placeholder.com/15/FFFFFF/000000?text=+)](https://yourwebsite.com) 
-[![Pinterest](https://via.placeholder.com/15/CB1F27/FFFFFF?text=+)](https://www.pinterest.com/yourprofile)
+[![LinkedIn](../main/Assets/Icon_Linkedin.png)](https://www.linkedin.com/in/tanushpurwar/) 
+[![Instagram](../main/Assets/Icon_Instagram.png)](https://www.instagram.com/sanskari_wolf/) 
+[![Website](../main/Assets/Icon_Website.png)](NONE) 
+[![Pinterest](../main/Assets/Icon_Pinterest.png)](https://in.pinterest.com/tanushpurwar/)
 
 ---
 
