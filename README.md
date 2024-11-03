@@ -24,4 +24,5 @@
 ---
 
 Feel free to explore my repositories
-![](https://komarev.com/ghpvc/?username=SanskariWolf)
+
+[![](https://komarev.com/ghpvc/?username=SanskariWolf)]
