@@ -1,28 +1,43 @@
+<p align="center">
+  <img src="../main/Assets/Banner.png" alt="Banner" />
+</p>
 
-![Banner](../main/Assets/Banner.png)
+<h1 align="center">Hey Guys!! I'm Tanush Purwar</h1>
 
-# Hey Guys!! I'm Tanush Purwar
+<hr />
 
----
+<h3 align="center">Welcome to my Moonlit Haven</h3>
 
-### Welcome to my Moonlit Haven
+<hr />
 
----
+<h3 align="center">My GitHub Status</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=pussian" alt="Status 1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian" alt="Status 2" />
+</p>
 
-### My GitHub Status
-| ![Status 1](https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=pussian) | ![Status 2](https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian) |
-|---|---|
----
+<hr />
 
-### Connect with Me
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanushpurwar/">
+    <img src="../main/Assets/Icon_Linkedin.svg" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sanskari_wolf/">
+    <img src="../main/Assets/Icon_Instagram.svg" alt="Instagram" />
+  </a>
+  <a href="NONE">
+    <img src="../main/Assets/Icon_Website.svg" alt="Website" />
+  </a>
+  <a href="https://in.pinterest.com/tanushpurwar/">
+    <img src="../main/Assets/Icon_Pinterest.svg" alt="Pinterest" />
+  </a>
+</p>
 
-[![LinkedIn](../main/Assets/Icon_Linkedin.svg)](https://www.linkedin.com/in/tanushpurwar/) 
-[![Instagram](../main/Assets/Icon_Instagram.svg)](https://www.instagram.com/sanskari_wolf/) 
-[![Website](../main/Assets/Icon_Website.svg)](NONE) 
-[![Pinterest](../main/Assets/Icon_Pinterest.svg)](https://in.pinterest.com/tanushpurwar/)
+<hr />
 
----
+<p align="center">Feel free to explore my repositories</p>
 
-Feel free to explore my repositories
-
-![](https://komarev.com/ghpvc/?username=SanskariWolf)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanskariWolf" alt="Profile Views" />
+</p>
