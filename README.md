@@ -12,9 +12,10 @@
 
 <h3 align="center">My GitHub Status</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=pussian" alt="Status 1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian" alt="Status 2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=prussian" alt="Status 1" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian" alt="Status 2" width="440" />
 </p>
+
 
 <hr />
 
