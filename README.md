@@ -1,5 +1,5 @@
 
-![Banner](https://via.placeholder.com/810x240)
+![Banner](../Assets/Banner.png)
 
 > "In the shadows, the wolf learns that even the closest pack can turn."
 
