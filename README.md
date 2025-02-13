@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/sanskari_wolf/">
     <img src="../main/Assets/Icon_Instagram.svg" alt="Instagram" />
   </a>
-  <a href="NONE">
+  <a href="https://www.sanskariwolf.com/">
     <img src="../main/Assets/Icon_Website.svg" alt="Website" />
   </a>
   <a href="https://in.pinterest.com/tanushpurwar/">
