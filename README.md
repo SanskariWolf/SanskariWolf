@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../main/Assets/Banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/SanskariWolf/main/Assets/Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hey Guys!! I'm Tanush Purwar</h1>
@@ -10,29 +10,27 @@
 
 <hr />
 
-<h2 align="left">My GitHub Status</h3>
+<h2 align="left">My GitHub Status</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=prussian" alt="Status 1" width="400" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian" alt="Status 2" width="400" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskariWolf&theme=prussian" alt="Status 2" width="400" />
 </p>
-
 
 <hr />
 
-<h2 align="left">Connect with Me</h3>
+<h2 align="left">Connect with Me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/tanushpurwar/">
-    <img src="../main/Assets/Icon_Linkedin.svg" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/SanskariWolf/main/Assets/Icon_Linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/sanskari_wolf/">
-    <img src="../main/Assets/Icon_Instagram.svg" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/SanskariWolf/main/Assets/Icon_Instagram.svg" alt="Instagram" />
   </a>
-  <a href="[NONE]">
-    <img src="../main/Assets/Icon_Website.svg" alt="Website" />
+  <a href="https://www.sanskariwolf.com/">  <!-- Replace with actual website -->
+    <img src="https://raw.githubusercontent.com/SanskariWolf/main/Assets/Icon_Website.svg" alt="Website" />
   </a>
   <a href="https://in.pinterest.com/tanushpurwar/">
-    <img src="../main/Assets/Icon_Pinterest.svg" alt="Pinterest" />
+    <img src="https://raw.githubusercontent.com/SanskariWolf/main/Assets/Icon_Pinterest.svg" alt="Pinterest" />
   </a>
 </p>
 
