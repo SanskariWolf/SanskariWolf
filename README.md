@@ -18,12 +18,9 @@
   <img src="https://streak-stats.demolab.com/?user=SanskariWolf&theme=prussian" alt="Tanush's GitHub Streak" width="440" />
   <br />
 
-  <!-- Userbars -->
-  <a href="https://wow.sinfocol.org/?page=usuario&u=SanskariWolf">
-    <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" height="25" />
-  </a>
-    <!-- Space -->
-  <h2>WeChall Score's</h2>
+ 
+
+  
   <br /> <!-- Line break before graphs -->
 
   <!-- WeChall Graphs -->
@@ -34,6 +31,10 @@
   <a href="https://www.wechall.net/profile/SanskariWolf">
     <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" alt="SanskariWolf's WeChall Rank History" width="400" /> <!-- Rank Graph -->
   </a>
+
+   <h2>World of War Score's</h2>
+
+  <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" height="25" />
 </p>
 
 <hr />
