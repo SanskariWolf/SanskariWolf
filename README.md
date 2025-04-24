@@ -19,6 +19,10 @@
   <a href="https://wow.sinfocol.org/?page=usuario&u=SanskariWolf">
     <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" width="700" /> <!-- Increased height -->
   </a>
+
+  <a href="https://www.wechall.net/profile/SanskariWolf"> <!-- Link to WeChall Profile -->
+    <img src="https://www.wechall.net/userbars/show/SanskariWolf.png" alt="SanskariWolf's WeChall Stats" height="25" /> <!-- WeChall Userbar -->
+  </a>
 </p>
 
 <hr />
