@@ -23,18 +23,16 @@
     <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" height="25" />
   </a>
     <!-- Space -->
-  <a href="https://www.wechall.net/profile/SanskariWolf">
-    <img src="https://www.wechall.net/userbars/show/SanskariWolf.png" alt="SanskariWolf's WeChall Stats" height="25" />
-  </a>
+  <h2>WeChall Score's</h2>
   <br /> <!-- Line break before graphs -->
 
   <!-- WeChall Graphs -->
   <a href="https://www.wechall.net/profile/SanskariWolf">
-    <img src="https://www.wechall.net/graph/wc_totalscore.SanskariWolf.png" alt="SanskariWolf's WeChall Score History" height="100" /> <!-- Score Graph -->
+    <img src="https://www.wechall.net/graph/wc_totalscore.SanskariWolf.png" alt="SanskariWolf's WeChall Score History" width="400" /> <!-- Score Graph -->
   </a>
     <!-- Space -->
   <a href="https://www.wechall.net/profile/SanskariWolf">
-    <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" alt="SanskariWolf's WeChall Rank History" height="100" /> <!-- Rank Graph -->
+    <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" alt="SanskariWolf's WeChall Rank History" width="400" /> <!-- Rank Graph -->
   </a>
 </p>
 
