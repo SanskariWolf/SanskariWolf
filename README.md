@@ -18,6 +18,8 @@
   <!-- Note: Replaced the unreliable herokuapp.com streak stats URL with demolab.com -->
 </p>
 
+[![SanskariWolf's WoW Stats](https://wow.sinfocol.org/userbar/SanskariWolf.png)](https://wow.sinfocol.org/?page=usuario&u=SanskariWolf)
+
 <hr />
 
 <h2 align="left">Connect with Me</h2>
