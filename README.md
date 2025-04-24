@@ -16,12 +16,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=prussian&show_icons=true" alt="Tanush's GitHub Stats" width="400" />
   <img src="https://streak-stats.demolab.com/?user=SanskariWolf&theme=prussian" alt="Tanush's GitHub Streak" width="440" />
-  <br />
-
- 
-
-  
-  <br /> <!-- Line break before graphs -->
 
   <!-- WeChall Graphs -->
   <a href="https://www.wechall.net/profile/SanskariWolf">
