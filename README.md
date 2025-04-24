@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SanskariWolf&theme=prussian&show_icons=true" alt="Tanush's GitHub Stats" width="400" />
   <img src="https://streak-stats.demolab.com/?user=SanskariWolf&theme=prussian" alt="Tanush's GitHub Streak" width="440" />
 
+   <h2>WeChall Scores</h2>
   <!-- WeChall Graphs -->
   <a href="https://www.wechall.net/profile/SanskariWolf">
     <img src="https://www.wechall.net/graph/wc_totalscore.SanskariWolf.png" alt="SanskariWolf's WeChall Score History" width="400" /> <!-- Score Graph -->
@@ -26,7 +27,7 @@
     <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" alt="SanskariWolf's WeChall Rank History" width="400" /> <!-- Rank Graph -->
   </a>
 
-   <h2>World of War Score's</h2>
+   <h2>World of War Scores</h2>
 
   <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" height="25" />
 </p>
