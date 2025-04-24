@@ -17,7 +17,7 @@
   <img src="https://streak-stats.demolab.com/?user=SanskariWolf&theme=prussian" alt="Tanush's GitHub Streak" width="440" />
   <br /> <!-- Add a line break to place the userbar below -->
   <a href="https://wow.sinfocol.org/?page=usuario&u=SanskariWolf">
-    <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" height="25" /> <!-- Increased height -->
+    <img src="https://wow.sinfocol.org/userbar/SanskariWolf.png" alt="SanskariWolf's World of Wargame Stats" width="700" /> <!-- Increased height -->
   </a>
 </p>
 
