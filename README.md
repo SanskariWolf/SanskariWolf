@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://www.wechall.net/graph/wc_totalscore.SanskariWolf.png" alt="SanskariWolf's WeChall Score History" width="400" />
-  <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" alt="SanskariWolf's WeChall Rank History" width="400" />
+  <img src="https://www.wechall.net/graph/wc_rank.SanskariWolf.png" width="400" />
 </p>
 
 <h2 align="center">World of War Scores</h2>
